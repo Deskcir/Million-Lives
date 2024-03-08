@@ -3,14 +3,14 @@
   "description": "",
   "artist": "Akinari Nao",
   "author": "Naoki Yamakawa",
-  "cover": "https://imgur.com/rSpzBJd",
+  "cover": "https://en.wikipedia.org/wiki/I%27m_Standing_on_a_Million_Lives#/media/File:I'm_Standing_on_a_Million_Lives_volume_1_cover.jpeg",
   "chapters": {
     "93": {
       "title": "Call of the Void",
       "volume": "",
       "last_updated": "1709856814",
       "groups": {
-        "": "https://imgur.com/5IRQXV5"
+        "": "/proxy/api/imgur/chapter/S6PsQaq"
       }
     }
   }
